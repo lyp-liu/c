@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "高考录取程序", "高考录取程序\高考录取程序.vcxproj", "{E1ED34D4-4B42-4FCD-94D9-D829030CE907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1ED34D4-4B42-4FCD-94D9-D829030CE907}.Debug|x64.ActiveCfg = Debug|x64
+		{E1ED34D4-4B42-4FCD-94D9-D829030CE907}.Debug|x64.Build.0 = Debug|x64
+		{E1ED34D4-4B42-4FCD-94D9-D829030CE907}.Debug|x86.ActiveCfg = Debug|Win32
+		{E1ED34D4-4B42-4FCD-94D9-D829030CE907}.Debug|x86.Build.0 = Debug|Win32
+		{E1ED34D4-4B42-4FCD-94D9-D829030CE907}.Release|x64.ActiveCfg = Release|x64
+		{E1ED34D4-4B42-4FCD-94D9-D829030CE907}.Release|x64.Build.0 = Release|x64
+		{E1ED34D4-4B42-4FCD-94D9-D829030CE907}.Release|x86.ActiveCfg = Release|Win32
+		{E1ED34D4-4B42-4FCD-94D9-D829030CE907}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {187F4392-FAB1-49DF-A3A8-E894055DC247}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿  源.c
+f:\test\高考录取程序\高考录取程序\源.c(60): warning C4098: “Function1”:“void”函数返回值
+  高考录取程序.vcxproj -> F:\test\高考录取程序\Debug\高考录取程序.exe
