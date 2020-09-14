@@ -1,0 +1,4 @@
+﻿  源.c
+f:\test\学生信息管理系统\学生信息管理系统\源.c(136): warning C4715: “searchbyname”: 不是所有的控件路径都返回值
+f:\test\学生信息管理系统\学生信息管理系统\源.c(118): warning C4715: “searchbyid”: 不是所有的控件路径都返回值
+  学生信息管理系统.vcxproj -> F:\test\学生信息管理系统\Debug\学生信息管理系统.exe
