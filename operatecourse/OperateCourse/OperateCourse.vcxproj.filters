@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="OperateCourse.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OperateCourseDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stumenu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tcmenu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="admin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="xuanke.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="addscore.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="paixushuchu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mydchakan.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="addcourse.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="addstu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="addtea.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="OperateCourse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OperateCourseDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stumenu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tcmenu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="admin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xuanke.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="addscore.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="paixushuchu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mydchakan.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="addcourse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="addstu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="addtea.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="OperateCourse.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\OperateCourse.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\OperateCourse.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
