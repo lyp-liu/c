@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\test\mini学生管理系统\mini学生管理系统\源.cpp(19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+f:\test\mini学生管理系统\mini学生管理系统\源.cpp(88): warning C4715: “input_command”: 不是所有的控件路径都返回值
+  Mini学生管理系统.vcxproj -> F:\test\Mini学生管理系统\Debug\Mini学生管理系统.exe
