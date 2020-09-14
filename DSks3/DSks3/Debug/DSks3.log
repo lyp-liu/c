@@ -1,0 +1,5 @@
+﻿  源.cpp
+f:\数据结构课设\dsks3\dsks3\源.cpp(4): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\数据结构课设\dsks3\dsks3\源.cpp(118): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+f:\数据结构课设\dsks3\dsks3\源.cpp(188): warning C4018: “<”: 有符号/无符号不匹配
+  DSks3.vcxproj -> F:\数据结构课设\DSks3\Debug\DSks3.exe
