@@ -1,0 +1,3 @@
+﻿  源.c
+f:\test\xscjgl\xscjgl\源.c(65): warning C4715: “searchbyid”: 不是所有的控件路径都返回值
+  xscjgl.vcxproj -> F:\test\xscjgl\Debug\xscjgl.exe
