@@ -168,8 +168,8 @@ if __name__ == '__main__':
 
 import requests
 from bs4 import BeautifulSoup
-import html5lib
-from pyecharts.charts import Bar
+#import html5lib
+#from pyecharts.charts import Bar
 import matplotlib.pyplot as plt
 ALL_DATA = []
 #网页的解析函数
@@ -192,12 +192,14 @@ def parse_page(url):
             if index == 0:
                 city_td = tds[1]
             city = list(city_td.stripped_strings)[0]#获取标签里面的字符串属性返回一个生成器,因此要转化为一个列表
-            temp_td = tds[7]
+            temp_td = tds[-5]
             #print(temp_td)
             max_temp = list(temp_td.stripped_strings)[0]
 
             #print({'城市':city,'最高气温':min_temp})
-            ALL_DATA.append({'城市': city, '最高气温': max_temp})  # 将数据添加到列表当作
+            ALL_DATA.append({'城市': city, '最高气温': int(max_temp)})  # 将数据添加到列表当作
+            print({'城市': city, '最高气温': max_temp})
+           # print(ALL_DATA);
  
 def main():
     urls = [
@@ -214,8 +216,12 @@ def main():
     for url in urls:
         parse_page(url)
     # 分析数据，根据最低气温进行排序
-    ALL_DATA.sort(key=lambda data:data['最高气温'])
-    data = ALL_DATA[0:10]#取出前10的最低气温及其城市
+    #print(type(ALL_DATA))
+    ALL_DATA.sort(key=lambda data:data['最高气温'],reverse=True)
+    data = ALL_DATA[0:10]#取出前10的最高气温及其城市
+
+    #data.reverse();
+    #print(data);
     return data
  
 if __name__ == '__main__':
@@ -227,6 +233,14 @@ if __name__ == '__main__':
     for data in datas:
         city.append(data['城市'])
         temp.append(data['最高气温'])
+    #city.reverse();
+    #temp.reverse();
+   # print(temp);
+    #range(len(city))
+    #plt.ylim(-2,20);
+    #plt.ylim(-5,20)
     plt.bar(range(len(city)),temp,tick_label=city)
+   # y_major_locator=MultipleLocator(2);
+
     plt.show()
 
