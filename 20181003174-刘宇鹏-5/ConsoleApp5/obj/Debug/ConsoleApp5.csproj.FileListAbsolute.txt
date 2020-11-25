@@ -1,0 +1,7 @@
+F:\C#程序\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+F:\C#程序\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+F:\C#程序\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+F:\C#程序\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+F:\C#程序\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+F:\C#程序\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+F:\C#程序\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
