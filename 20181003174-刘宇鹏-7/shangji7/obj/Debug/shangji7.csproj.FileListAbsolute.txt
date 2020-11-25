@@ -1,0 +1,15 @@
+F:\C#程序\shangji7\shangji7\bin\Debug\shangji7.exe.config
+F:\C#程序\shangji7\shangji7\bin\Debug\shangji7.exe
+F:\C#程序\shangji7\shangji7\bin\Debug\shangji7.pdb
+F:\C#程序\shangji7\shangji7\obj\Debug\shangji7.csprojAssemblyReference.cache
+F:\C#程序\shangji7\shangji7\obj\Debug\MainWindow.g.cs
+F:\C#程序\shangji7\shangji7\obj\Debug\App.g.cs
+F:\C#程序\shangji7\shangji7\obj\Debug\shangji7_MarkupCompile.cache
+F:\C#程序\shangji7\shangji7\obj\Debug\shangji7_MarkupCompile.lref
+F:\C#程序\shangji7\shangji7\obj\Debug\MainWindow.baml
+F:\C#程序\shangji7\shangji7\obj\Debug\shangji7.g.resources
+F:\C#程序\shangji7\shangji7\obj\Debug\shangji7.Properties.Resources.resources
+F:\C#程序\shangji7\shangji7\obj\Debug\shangji7.csproj.GenerateResource.cache
+F:\C#程序\shangji7\shangji7\obj\Debug\shangji7.csproj.CoreCompileInputs.cache
+F:\C#程序\shangji7\shangji7\obj\Debug\shangji7.exe
+F:\C#程序\shangji7\shangji7\obj\Debug\shangji7.pdb
