@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>grid.png</file>
+        <file>ring.png</file>
+        <file>fork.png</file>
+    </qresource>
+</RCC>
