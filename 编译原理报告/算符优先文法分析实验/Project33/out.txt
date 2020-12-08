@@ -1,0 +1,14 @@
+
+Ln 3, Col 1: int
+Ln 3, Col 11: int
+Ln 3, Col 18: int
+Ln 5, Col 3: if
+Ln 6, Col 6: return
+Ln 7, Col 3: else
+Ln 7, Col 8: return
+Ln 10, Col 1: void
+Ln 10, Col 11: void
+Ln 12, Col 3: int
+Ln 13, Col 3: int
+
+Ò»¹²ÕÒµ½11Æ¥Åä×Ö·û´®
